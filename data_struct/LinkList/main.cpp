@@ -43,6 +43,7 @@ LinkList list_tail_insert(LinkList &L) {
     return L;
 }
 
+
 //按位置查找，L是第0个结点
 LinkList GetElem(LinkList L, int pos) {
     int i = 0;
@@ -79,6 +80,19 @@ bool ListFrontInsert(LinkList L, int pos, ElemType value) {
     return true;
 }
 
+//单链表的删除，删除第i个位置的元素，删除时L是不会变的，不需要加引用
+bool ListDelete(LinkList L, int i) {
+    if (i < 1)
+        return false;
+    LinkList p = GetElem(L, i - 1);//拿到要删除结点的前一个结点
+    if (p == NULL)
+        return false;
+    LinkList q = p->next;//拿到要删除结点的指针
+    p->next = q->next;//断链
+    free(q);//释放被删除的结点
+    return true;
+}
+
 void print_list(LinkList L) {
     L = L->next;
     while (L != NULL) {
@@ -101,20 +115,27 @@ int main() {
         printf("search by position successfully\n");
         printf("%d\n", search->data);
     } else {
-        printf("search by position false");
+        printf("search by position false\n");
     }
     search = LocateElem(L, 3);
     if (search != NULL) {
         printf("search by value successfully\n");
         printf("%d\n", search->data);
     } else {
-        printf("search by value false");
+        printf("search by value false\n");
     }
     ret = ListFrontInsert(L, 2, 99);
     if (ret) {
         print_list(L);
     } else {
-        printf("insert false");
+        printf("insert false\n");
     }
+    ret = ListDelete(L, 4);//删除第四个位置的元素
+    if (ret) {
+        print_list(L);
+    } else {
+        printf("delete false\n");
+    }
+
     return 0;
 }
