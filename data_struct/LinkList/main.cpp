@@ -48,7 +48,7 @@ LinkList GetElem(LinkList L, int pos) {
     if (pos < 0) {
         return NULL;
     }
-    while (L && i < pos) {
+    while (L && i < pos) { //查找第0个结点无法进入循环，直接返回L
         L = L->next;
         i++;
     }
@@ -88,6 +88,7 @@ bool ListDelete(LinkList L, int i) {
     LinkList q = p->next;//拿到要删除结点的指针
     p->next = q->next;//断链
     free(q);//释放被删除的结点
+    q = NULL;//为了避免野指针
     return true;
 }
 
