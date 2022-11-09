@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="LinkQueue" targetName="LinkQueue" />
+      <config projectName="BiTree_LevelOrder" targetName="BiTree_LevelOrder" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,55 +11,55 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5050a109-e2ab-46d2-b3e9-45d79ca98656" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/.idea/BiTree_LevelOrder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/BiTree_LevelOrder.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/BiTree_LevelOrder.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/CXX.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/linklibs.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/main.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/objects.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/objects1.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/queue.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/function.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BiTree_LevelOrder/queue.cpp" afterDir="false" />
+    <list default="true" id="fe4be49b-8d7f-4d72-89f8-c129a6575eaa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/BiTree_LevelOrder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/BiTree_LevelOrder.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/BiTree_LevelOrder.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BiTree_LevelOrder.dir/queue.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queue.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BiTree_level_build/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BiTree_level_build/.idea/BiTree_level_build.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BiTree_level_build/.idea/misc.xml" afterDir="false" />
@@ -145,8 +145,8 @@
       <change afterPath="$PROJECT_DIR$/../BiTree_pre_in_post_order/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BiTree_pre_in_post_order/function.h" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BiTree_pre_in_post_order/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkQueue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkQueue/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkQueue/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkQueue/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../oj/test_19/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../oj/test_19/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,7 +161,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2HDh8V3zanMuHfrXwfidXfWRpua" />
+  <component name="ProjectId" id="2HJLFqBjBKRNehsVBVUUxvptkjU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -184,7 +184,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
-    <configuration name="LinkQueue" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LinkQueue" TARGET_NAME="LinkQueue" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LinkQueue" RUN_TARGET_NAME="LinkQueue">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BiTree_LevelOrder" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BiTree_LevelOrder" TARGET_NAME="BiTree_LevelOrder" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BiTree_LevelOrder" RUN_TARGET_NAME="BiTree_LevelOrder">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -198,13 +203,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5050a109-e2ab-46d2-b3e9-45d79ca98656" name="Default Changelist" comment="" />
-      <created>1667825402472</created>
+      <changelist id="fe4be49b-8d7f-4d72-89f8-c129a6575eaa" name="Default Changelist" comment="" />
+      <created>1667998139400</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667825402472</updated>
-      <workItem from="1667825404824" duration="1366000" />
-      <workItem from="1667998217044" duration="1096000" />
+      <updated>1667998139400</updated>
+      <workItem from="1667998141425" duration="2052000" />
     </task>
     <servers />
   </component>
@@ -221,7 +225,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

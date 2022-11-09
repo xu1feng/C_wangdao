@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\BiTree_LevelOrder.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\BiTree_LevelOrder.dir/objects.a @CMakeFiles\BiTree_LevelOrder.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\BiTree_LevelOrder.dir/objects.a -Wl,--no-whole-archive -o BiTree_LevelOrder.exe -Wl,--out-implib,libBiTree_LevelOrder.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\BiTree_LevelOrder.dir\linklibs.rsp
