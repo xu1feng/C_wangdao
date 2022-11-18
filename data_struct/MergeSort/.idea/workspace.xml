@@ -11,7 +11,163 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b9393ca-22f6-421a-a376-9dd084794422" name="Default Changelist" comment="Update" />
+    <list default="true" id="4b9393ca-22f6-421a-a376-9dd084794422" name="Default Changelist" comment="Update">
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/.idea/408_2016_43.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/408_2016_43.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/408_2016_43.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/408_2016_43.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/408_2016_43.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/408_2016_43.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/408_2016_43.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/408_2016_43.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/408_2016_43.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/408_2016_43.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/408_2016_43.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/408_2016_43.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/408_2016_43.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/408_2016_43.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/408_2016_43.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/408_2016_43.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2016_43/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/.idea/408_2022_42.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/18.4 2022年42题题目解析.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/18.5 2022年42题代码实战.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/408_2022_42.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/408_2022_42.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/408_2022_42.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/408_2022_42.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/408_2022_42.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/408_2022_42.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/408_2022_42.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/408_2022_42.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/408_2022_42.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/408_2022_42.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/408_2022_42.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/408_2022_42.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/408_2022_42.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/408_2022_42.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/408_2022_42.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../408test/408_2022_42/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_25/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_25/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_25/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_25/.idea/test_25.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_25/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_25/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_25/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_25/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_25/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_25/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_25/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_25/cmake-build-debug/CMakeFiles/test_25.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_25/cmake-build-debug/CMakeFiles/test_25.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_25/cmake-build-debug/CMakeFiles/test_25.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_25/cmake-build-debug/CMakeFiles/test_25.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_25/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_25/cmake-build-debug/test_25.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_25/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/.idea/test_26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/test_26.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/test_26.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/test_26.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/test_26.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/test_26.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/test_26.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/test_26.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/test_26.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/test_26.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/test_26.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/test_26.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/test_26.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/CMakeFiles/test_26.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/test_26.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/cmake-build-debug/test_26.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oj/test_26/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeapSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HeapSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeapSort/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../HeapSort/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SelectSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SelectSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SelectSort/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../SelectSort/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,11 +203,6 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MergeSort" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MergeSort" TARGET_NAME="MergeSort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MergeSort" RUN_TARGET_NAME="MergeSort">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -71,7 +222,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668602732617</updated>
-      <workItem from="1668602734584" duration="2643000" />
+      <workItem from="1668602734584" duration="2730000" />
+      <workItem from="1668769750945" duration="797000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1668605530570</created>
@@ -96,6 +248,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
