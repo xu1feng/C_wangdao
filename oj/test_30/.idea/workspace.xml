@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="test_30" targetName="test_30" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1350db4-c165-483d-96e6-dd8186131d00" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/.idea/Auto-Increment-Decrement-Operator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/Auto_Increment_Decrement_Operator.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/Auto_Increment_Decrement_Operator.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/Auto_Increment_Decrement_Operator.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/Auto_Increment_Decrement_Operator.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/Auto_Increment_Decrement_Operator.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/Auto_Increment_Decrement_Operator.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/Auto_Increment_Decrement_Operator.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/Auto_Increment_Decrement_Operator.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/Auto_Increment_Decrement_Operator.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/Auto_Increment_Decrement_Operator.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/Auto_Increment_Decrement_Operator.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/Auto_Increment_Decrement_Operator.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/Auto_Increment_Decrement_Operator.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/Auto_Increment_Decrement_Operator.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/Auto_Increment_Decrement_Operator.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Auto-Increment-Decrement-Operator/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/.idea/BitwiseOperators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/BitwiseOperators.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/BitwiseOperators.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/BitwiseOperators.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/BitwiseOperators.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/BitwiseOperators.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/BitwiseOperators.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/BitwiseOperators.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/BitwiseOperators.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/BitwiseOperators.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/BitwiseOperators.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/BitwiseOperators.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/BitwiseOperators.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/BitwiseOperators.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/BitwiseOperators.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/BitwiseOperators.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/BitwiseOperators/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/.idea/Conditional-Comma_Operator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/Conditional_Comma_Operator.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/Conditional_Comma_Operator.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/Conditional_Comma_Operator.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/Conditional_Comma_Operator.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/Conditional_Comma_Operator.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/Conditional_Comma_Operator.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/Conditional_Comma_Operator.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/Conditional_Comma_Operator.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/Conditional_Comma_Operator.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/Conditional_Comma_Operator.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/Conditional_Comma_Operator.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/Conditional_Comma_Operator.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/Conditional_Comma_Operator.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/Conditional_Comma_Operator.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/Conditional_Comma_Operator.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/Conditional-Comma_Operator/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/.idea/XOR-Operator_Exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/XOR_Operator_Exercise.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/XOR_Operator_Exercise.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/XOR_Operator_Exercise.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/XOR_Operator_Exercise.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/XOR_Operator_Exercise.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/XOR_Operator_Exercise.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/XOR_Operator_Exercise.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/XOR_Operator_Exercise.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/XOR_Operator_Exercise.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/XOR_Operator_Exercise.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/XOR_Operator_Exercise.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/XOR_Operator_Exercise.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/XOR_Operator_Exercise.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/XOR_Operator_Exercise.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/XOR_Operator_Exercise.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_Prime_Plus/XOR-Operator_Exercise/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/.idea/test_29.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/test_29.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/test_29.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/test_29.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/test_29.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/test_29.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/test_29.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/test_29.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/test_29.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/test_29.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/test_29.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/test_29.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/test_29.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/CMakeFiles/test_29.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/test_29.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_29/cmake-build-debug/test_29.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test_30.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_30.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_30.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_30.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_30.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_30.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_30.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_30.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_30.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/test_30.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/test_30.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../408test/408_2016_43/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../408test/408_2016_43/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../408test/408_2022_42/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../408test/408_2022_42/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data_struct/HeapSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../data_struct/HeapSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data_struct/MergeSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../data_struct/MergeSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data_struct/SelectSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../data_struct/SelectSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../data_struct/SelectSort/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../data_struct/SelectSort/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_26/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test_26/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2HrDu6kt1Cn8qCdS8bsiY7Xhpc6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_30" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="test_30" TARGET_NAME="test_30" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="test_30" RUN_TARGET_NAME="test_30">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1350db4-c165-483d-96e6-dd8186131d00" name="Default Changelist" comment="" />
+      <created>1669034529293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669034529293</updated>
+      <workItem from="1669034532114" duration="97000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
