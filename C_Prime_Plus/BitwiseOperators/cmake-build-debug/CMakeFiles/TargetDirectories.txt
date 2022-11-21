@@ -1,0 +1,3 @@
+D:/c_code/C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/BitwiseOperators.dir
+D:/c_code/C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c_code/C_Prime_Plus/BitwiseOperators/cmake-build-debug/CMakeFiles/rebuild_cache.dir

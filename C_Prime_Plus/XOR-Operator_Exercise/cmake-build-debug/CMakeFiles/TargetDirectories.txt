@@ -1,0 +1,3 @@
+D:/c_code/C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/XOR_Operator_Exercise.dir
+D:/c_code/C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c_code/C_Prime_Plus/XOR-Operator_Exercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
