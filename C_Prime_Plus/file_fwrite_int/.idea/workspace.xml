@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="file_fwrite_int" targetName="file_fwrite_int" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9abeb8eb-766c-4121-b7b9-7d5601df2fe2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../file_fgets/.idea/file_fgets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/cmake-build-debug/CMakeFiles/file_fgets.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/cmake-build-debug/CMakeFiles/file_fgets.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/cmake-build-debug/CMakeFiles/file_fgets.dir/main.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/cmake-build-debug/CMakeFiles/file_fgets.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/cmake-build-debug/file_fgets.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fgets/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/.idea/file_fopen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/file_fopen.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/file_fopen.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/file_fopen.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/file_fopen.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/file_fopen.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/file_fopen.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/file_fopen.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/file_fopen.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/file_fopen.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/file_fopen.dir/main.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/file_fopen.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/file_fopen.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/file_fopen.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/file_fopen.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fopen/cmake-build-debug/file_fopen.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/.idea/file_fread_fwrite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/file_fread_fwrite.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/file_fread_fwrite.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/file_fread_fwrite.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/file_fread_fwrite.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/file_fread_fwrite.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/file_fread_fwrite.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/file_fread_fwrite.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/file_fread_fwrite.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/file_fread_fwrite.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/file_fread_fwrite.dir/main.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/file_fread_fwrite.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/file_fread_fwrite.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/file_fread_fwrite.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/file_fread_fwrite.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/cmake-build-debug/file_fread_fwrite.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fread_fwrite/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/.idea/file_fseek_ftell.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/file_fseek_ftell.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/file_fseek_ftell.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/file_fseek_ftell.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/file_fseek_ftell.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/file_fseek_ftell.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/file_fseek_ftell.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/file_fseek_ftell.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/file_fseek_ftell.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/file_fseek_ftell.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/file_fseek_ftell.dir/main.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/file_fseek_ftell.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/file_fseek_ftell.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/file_fseek_ftell.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/file_fseek_ftell.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file_fseek_ftell/cmake-build-debug/file_fseek_ftell.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/file_fwrite_int.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/file_fwrite_int.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/file_fwrite_int.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/file_fwrite_int.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/file_fwrite_int.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/file_fwrite_int.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/file_fwrite_int.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/file_fwrite_int.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/file_fwrite_int.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/file_fwrite_int.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/file_fwrite_int.dir/main.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/file_fwrite_int.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/file_fwrite_int.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/file_fwrite_int.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/file_fwrite_int.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/file_fwrite_int.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../XOR-Operator_Exercise/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../XOR-Operator_Exercise/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oj/test_29/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../oj/test_29/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oj/test_30/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../oj/test_30/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2IGZ8bAYdoYwfPs2KSbwMWehFXd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="file_fwrite_int" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="file_fwrite_int" TARGET_NAME="file_fwrite_int" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="file_fwrite_int" RUN_TARGET_NAME="file_fwrite_int">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9abeb8eb-766c-4121-b7b9-7d5601df2fe2" name="Default Changelist" comment="" />
+      <created>1669809722579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669809722579</updated>
+      <workItem from="1669809724920" duration="1097000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

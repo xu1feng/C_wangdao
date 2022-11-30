@@ -1,0 +1,3 @@
+D:/c_code/C_Prime_Plus/file_fseek_ftell/cmake-build-debug/CMakeFiles/file_fseek_ftell.dir
+D:/c_code/C_Prime_Plus/file_fseek_ftell/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c_code/C_Prime_Plus/file_fseek_ftell/cmake-build-debug/CMakeFiles/rebuild_cache.dir

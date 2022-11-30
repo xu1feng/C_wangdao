@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\file_fseek_ftell.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\file_fseek_ftell.dir/objects.a @CMakeFiles\file_fseek_ftell.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\file_fseek_ftell.dir/objects.a -Wl,--no-whole-archive -o file_fseek_ftell.exe -Wl,--out-implib,libfile_fseek_ftell.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\file_fseek_ftell.dir\linklibs.rsp

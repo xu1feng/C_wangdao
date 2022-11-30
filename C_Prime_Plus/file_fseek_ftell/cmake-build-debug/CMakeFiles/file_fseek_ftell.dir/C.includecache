@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/c_code/C_Prime_Plus/file_fseek_ftell/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

@@ -1,0 +1,3 @@
+D:/c_code/C_Prime_Plus/file_fwrite_int/cmake-build-debug/CMakeFiles/file_fwrite_int.dir
+D:/c_code/C_Prime_Plus/file_fwrite_int/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c_code/C_Prime_Plus/file_fwrite_int/cmake-build-debug/CMakeFiles/rebuild_cache.dir
